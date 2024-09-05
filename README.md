@@ -1,5 +1,5 @@
 ### Hey 👋!
-I am Carlo Evidente, a Software Engineering Student at Centennial College. As for my software engineering experience I bring a versatile skill set to the forefront, blending my expertise in HTML and CSS to craft visually appealing and user-friendly websites. My capabilities extend to Python, Java and C#, empowering me to build robust backend functionalities that drive seamless user experiences.
+I am Carlo Evidente, a Software Engineering Student at Centennial College. As for my software engineering experience I bring a versatile skill set to the forefront, blending my expertise in HTML, CSS and JAVASCRIPT to craft visually appealing and user-friendly websites. My capabilities extend to Python, Java and C#, empowering me to build robust backend functionalities that drive seamless user experiences.
 
 
 🔭 I’m currently working on my porfolio website which will allow people to view my projects and experiences. 
